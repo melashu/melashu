@@ -41,7 +41,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
+ 
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
@@ -49,17 +49,12 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <hr>
-<br/>
-
 <a href="https://github.com/melashu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melashu&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melashu&theme=buefy&layout=compact" />
 </a>
-
-<br/>
 <hr>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
 <a href="https://keteraraw.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.keteraraw.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/melashu-amare-033a50b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Melashu%20Amare-blue?style=flat-square&logo=linkedin"></a>
