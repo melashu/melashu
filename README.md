@@ -1,4 +1,4 @@
-<h1> Hello there! I'm Melashu (Meshu).</h1>
+<h1> Hello there! I'm  <img alt="Melashu (Meshu)" src="https://img.shields.io/badge/Melashu-amare-brightgreen?style=for-the-badge&logo=Tether&logoColor=white"> </h1>
 
 <h3 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -42,8 +42,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <hr>
 <a href="https://github.com/melashu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melashu&theme=buefy&show_icons=true" />
@@ -56,6 +54,7 @@
 <a href="https://www.linkedin.com/in/melashu-amare-033a50b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Melashu%20Amare-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:meshu102@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meshu102@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://api.whatsapp.com/send?phone=0980631983"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251980631983-blue?style=flat-square&logo=whatsapp"></a>
+
 </p>
 <hr>
 
