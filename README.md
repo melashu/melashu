@@ -1,4 +1,4 @@
-<img src="https://keteraraw.com/blog/my-pic-k.jpg">
+<img src="https://keteraraw.com/blog/my-pic-for-git-hab.jpg">
 
 <h2> Hey there! I'm Melashu (Meshu).</h2>
 
