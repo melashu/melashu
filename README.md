@@ -4,15 +4,17 @@
 
 <h1> Hello there! I'm Melashu (Meshu).</h1>
 
-<h3 style="font-size:18px;color:red"> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I'm a developer with a passion for learning and facing challenges.
 - 🎓 &nbsp; Studying software enginnering in AASTU.
 - 💼 &nbsp; I have amazing experince in hybrid mobile app development.
-- 🌱 &nbsp; I can adapt new <b>Technologies</b>,and <b>Teams</b> easily.
+- 🌱 &nbsp; I always enhance my skillset by new skills and methdologies.
 - ✍️ &nbsp; I have good experince in Devops engineering practive.
 - 👾 &nbsp; I have remote work experince as a mobile app developer.
 - 🤏 &nbsp; I have published several apps in My PlayStore account.
+- 🗣️ &nbsp; I am well-versed in communicating with the client in clear and concise English.
+- 💪 &nbsp; Currelntly I am updating my self to be a <b>Full Stack</b> web developer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -28,6 +30,9 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=ffffff)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress)
+  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite&logoColor=blueviolt)
