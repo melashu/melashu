@@ -1,5 +1,5 @@
-<div align="center" >
-<img src="https://keteraraw.com/blog/my-pic-for-git-hab.jpg" style="border-radius: 50%">
+<div align="center" style="border-radius: 50%">
+<img src="https://keteraraw.com/blog/my-pic-for-git-hab.jpg">
 </div>
 
 <h1> Hello there! I'm Melashu (Meshu).</h1>
@@ -9,13 +9,13 @@
 - 🤔 &nbsp; I'm a developer with a passion for learning and facing challenges.
 - 🎓 &nbsp; Studying software enginnering in AASTU.
 - 💼 &nbsp; I have amazing experince in hybrid mobile app development.
-- 🌱 &nbsp; I always enhance my skillset by new skills and methdologies.
-- ✍️ &nbsp; I have good experince in Devops engineering practive.
+- 🌱 &nbsp; I always enhance my <b>Skillset</b> by new skills and methdologies.
+- ✍️ &nbsp; I have good experince in <b>Devops</b> engineering practive.
 - 👾 &nbsp; I have remote work experince as a mobile app developer.
-- 🤏 &nbsp; I have published several apps in My PlayStore account.
+- 🤏 &nbsp; I have published several apps in My <b>PlayStore</b> account.
 - 🗣️ &nbsp; I am well-versed in communicating with the client in clear and concise English.
 - 💪 &nbsp; Currelntly I am updating my self to be a <b>Full Stack</b> web developer.
-
+<hr>
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -48,7 +48,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
+<hr>
 <br/>
 
 <a href="https://github.com/melashu">
@@ -57,7 +57,7 @@
 </a>
 
 <br/>
-
+<hr>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -66,5 +66,5 @@
 <a href="mailto:meshu102@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meshu102@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://api.whatsapp.com/send?phone=0980631983"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251980631983-blue?style=flat-square&logo=whatsapp"></a>
 </p>
+<hr>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
