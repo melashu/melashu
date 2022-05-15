@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://keteraraw.com/blog/my-pic-for-git-hab.jpg" alt="Avatar" style="width:150px;border-radius: 50%;">
+</div>
+
 <h1> Hello there! I'm  <img alt="Melashu (Meshu)" src="https://img.shields.io/badge/Melashu-amare-brightgreen?style=for-the-badge&logoColor=white"> </h1>
 
 <h3 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;About Me </h3>
