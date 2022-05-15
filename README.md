@@ -1,16 +1,18 @@
-<div align="center">
-<img src="https://keteraraw.com/blog/my-pic-for-git-hab.jpg">
+<div align="center" >
+<img src="https://keteraraw.com/blog/my-pic-for-git-hab.jpg" style="border-radius: 50%">
 </div>
 
-<h2> Hey there! I'm Melashu (Meshu).</h2>
+<h1> Hello there! I'm Melashu (Meshu).</h1>
 
 <h3 style="font-size:18px;color:red"> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; I'm a developer with a passion for learning and facing challenges.
+- 🎓 &nbsp; Studying software enginnering in AASTU.
+- 💼 &nbsp; I have amazing experince in hybrid mobile app development.
+- 🌱 &nbsp; I can adapt new <b>Technologies</b>,and <b>Teams</b> easily.
+- ✍️ &nbsp; I have good experince in Devops engineering practive.
+- 👾 &nbsp; I have remote work experince as a mobile app developer.
+- 🤏 &nbsp; I have published several apps in My PlayStore account.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -40,7 +42,6 @@
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
