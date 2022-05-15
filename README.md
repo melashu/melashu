@@ -1,4 +1,4 @@
-<h1> Hello there! I'm  <img alt="Melashu (Meshu)" src="https://img.shields.io/badge/Melashu-amare-brightgreen?style=for-the-badge&logo=Tether&logoColor=white"> </h1>
+<h1> Hello there! I'm  <img alt="Melashu (Meshu)" src="https://img.shields.io/badge/Melashu-amare-brightgreen?style=for-the-badge&logoColor=white"> </h1>
 
 <h3 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -44,8 +44,8 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <hr>
 <a href="https://github.com/melashu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melashu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melashu&theme=buefy&layout=compact" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=melashu&theme=buefy&show_icons=true" />
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melashu&theme=buefy&layout=compact" />
 </a>
 <hr>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
