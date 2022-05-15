@@ -1,7 +1,3 @@
-<div align="center" style="border-radius: 50%">
-<img src="https://keteraraw.com/blog/my-pic-for-git-hab.jpg">
-</div>
-
 <h1> Hello there! I'm Melashu (Meshu).</h1>
 
 <h3 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;About Me </h3>
