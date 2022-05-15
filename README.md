@@ -54,11 +54,9 @@
 </a>
 <hr>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center">
-<a href="https://keteraraw.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.keteraraw.com-blue?style=flat-square&logo=google-chrome&color=success"></a>
-<a href="https://www.linkedin.com/in/melashu-amare-033a50b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Melashu%20Amare-blue?style=flat-square&logo=linkedin&color=success"></a>
-<a href="mailto:meshu102@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meshu102@gmail.com-blue?style=flat-square&logo=gmail&color=success"></a>
-<a href="https://api.whatsapp.com/send?phone=0980631983"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251980631983-blue?style=flat-square&logo=whatsapp&color=success"></a>
+
+<p>
+<a href="https://keteraraw.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.keteraraw.com-blue?style=flat-square&logo=google-chrome&color=success"></a> <br> <a href="https://www.linkedin.com/feed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Melashu%20Amare-blue?style=flat-square&logo=linkedin&color=success"></a> <br><a href="mailto:meshu102@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meshu102@gmail.com-blue?style=flat-square&logo=gmail&color=success"></a><br><a href="https://api.whatsapp.com/send?phone=0980631983"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251980631983-blue?style=flat-square&logo=whatsapp&color=success"></a>
 
 </p>
 <hr>
