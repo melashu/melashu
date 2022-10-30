@@ -7,7 +7,7 @@
 
 <h3 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I'm a developer with a passion for learning and facing challenges.
+- 🤔 &nbsp; I'm a developer with a passion for learning and solving challenges.
 - 🎓 &nbsp; Studying software enginnering in AASTU.
 - 💼 &nbsp; I have amazing experince in hybrid mobile app development.
 - 🌱 &nbsp; I always enhance my <b>Skillset</b> by new skills and methdologies.
