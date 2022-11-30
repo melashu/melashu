@@ -47,12 +47,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-<hr>
-<a href="https://github.com/melashu">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=melashu&theme=buefy&show_icons=true" />
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melashu&theme=buefy&layout=compact" />
-</a>
-<hr>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
