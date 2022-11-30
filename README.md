@@ -51,8 +51,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <hr>
 <a href="https://github.com/melashu">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=melashu&theme=buefy&show_icons=true" />
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melashu&theme=buefy&layout=compact" />
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=melashu&theme=buefy&show_icons=true" />
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melashu&theme=buefy&layout=compact" />
 </a>
 <hr>
 <p>
