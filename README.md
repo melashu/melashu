@@ -4,7 +4,8 @@
 
 <h3 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👾 &nbsp; A full-stack developer with JavaScript, React, and Ruby on Rails.
+- 👾 &nbsp; I'm a full-stack developer with JavaScript, React, and Ruby on Rails.
+- 🌱 &nbsp; I'm looking for a fast-growing technology company or startup to which I can help and contribute.
 - 🤔 &nbsp; I'm a developer with a passion for learning and solving challenges.
 - 🎓 &nbsp; <b>Interested in teamwork</b>.
 - 🌱 &nbsp; How to reach me [Linkedin](https://www.linkedin.com/in/melashu-amare/) [Twitter](https://twitter.com/meshu102).
