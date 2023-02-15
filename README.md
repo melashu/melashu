@@ -17,10 +17,11 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ffffff)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  ![Ruby on Rails](https://img.shields.io/badge/-Ruby-on-Rails-333333?style=flat&logo=rails)
+  ![Ruby on Rails](https://img.shields.io/endpoint?label=Ruby%20on%20Rails&logo=Ruby%20on%20Rails&logoColor=white&style=flat-square&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday)
   
     
  - 💻 &nbsp;
@@ -44,14 +45,14 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <hr>
-<a href="https://github.com/melashu">
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=melashu&theme=buefy&show_icons=true" />
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melashu&theme=buefy&layout=compact" />
-</a>
-<hr>
-<p>
-<a href="https://keteraraw.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.keteraraw.com-blue?style=flat-square&logo=google-chrome&color=success"></a> <br> <a href="https://www.linkedin.com/feed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Melashu%20Amare-blue?style=flat-square&logo=linkedin&color=success"></a> <br><a href="mailto:meshu102@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meshu102@gmail.com-blue?style=flat-square&logo=gmail&color=success"></a><br><a href="https://api.whatsapp.com/send?phone=0980631983"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251980631983-blue?style=flat-square&logo=whatsapp&color=success"></a>
 
+<p>
+<a href="https://melashu.github.io/My-Portfolio"><img alt="Website" src="https://img.shields.io/badge/Portfolio-www.melashu.github.io-blue?style=flat-square&logo=google-chrome&color=success"></a> <br> <a href="https://www.linkedin.com/feed/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Melashu%20Amare-blue?style=flat-square&logo=linkedin&color=success"></a> <br><a href="mailto:meshu102@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meshu.amare@gmail.com-blue?style=flat-square&logo=gmail&color=success"></a><br><a href="https://api.whatsapp.com/send?phone=0980631983"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-+251980631983-blue?style=flat-square&logo=whatsapp&color=success"></a>
 </p>
+<hr>
+<a href="https://github.com/melashu">
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=melashu&theme=blue-green&show_icons=true" />
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melashu&theme=blue-green&layout=compact" />
+</a>
 <hr>
 
