@@ -1,18 +1,16 @@
 
 <div align="center">
-  <img src="https://keteraraw.com/blog/my-pic-for-git-hab.jpg" alt="Avatar" style="width:180px;border-radius: 50%;">
+  <img src="[https://keteraraw.com/blog/my-pic-for-git-hab.jpg](https://lh3.googleusercontent.com/BsMLwmuu0RK0wK-xGu6Y1NVGCTv3IXcDM9qL7n6Kwu7Cgs-2fPoN_iCA2QnmJ-MA6YbTXBLoB6V9chgCRV6Upo2fj_o3rcSj9kZAhfv_oxY4qve_NVZY1PQo3YhhvXAL9YiY1mXIkX6KwttwOUYcm5YcSP55Ddx_pDFpdSe2K-6e9i3pPDhGGOrowYs36CoELd_n9mZ5BiFmWxNfg1lCfgJusCGsLiYTQysCotMLZzrVwo8ZZfATtzf6T3Fxs0DtGvgqHqlNNBFj18u-dhZWj_mO-BNNLZuDw8cM82l9GKkdJ-bI6AROWWWSGPROIIQ1Fmp3CUG1f3CGkvBcWh_Mpz8m0p2QutiZgslDbXUfuAi43YAbfKuu3lFuGyEGGAhJjvnc5Rek-dbVxUixiik4Ugq47DiddRCOdocXcqaSwxW32-OAciAJ_z_aWfXJ2F8HA1SgM0T0i82unh-SRuwf1SegXwW5AUcF8AaL2VK1ckdsXFIcp8b9Vkkw9bUA2Jgc3bDCxGuTy6S5Op-JPAuH92MZDW50NHIXRueRGv9T1e4JeL3LBAamqi9MK2czaNHXugs2TRt-QIABhtLakfD7sg0OvYWZxhHpnLIVLfcTZG8QrYoTbaRaMzNYMMOp9KfX8Jk0SU1_eF9GEt09lO_GfVWpccqJ1O3eysvWTDAbMgiogzJzPFlTculwJ6QQZFnNUv0u-t9CZxKTvFfkBgITwAxDtdeKgwTaOEtdDKD8O0xGNkeRPoEvivqSG8dGbpywOs5_9x-TyeWrKSqcMLDl1z_p75moeCmmzvwOr4nGfCZpOweAyNRjBsVrbFyCfcuPDaUB-ADcGorLnRbX1-ajMPurR75FPRK4QhA0oaBdCs3eLCdtCknjHVT1hKnrUeW1vvIe4Dan-bcimffo_h6UGUKL9-nFFrt4lWFxh1kj6iD-vDarGg=w102-h226-no?authuser=0)" alt="Avatar" style="width:180px;border-radius: 50%;">
 </div>
 
 <h1> Hello there! I'm  <img alt="Melashu (Meshu)" src="https://img.shields.io/badge/Melashu-amare-brightgreen?style=for-the-badge&logoColor=white"> </h1>
 
 <h3 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;About Me </h3>
-
+- 👾 &nbsp; I have remote work experince as a mobile app developer.
 - 🤔 &nbsp; I'm a developer with a passion for learning and solving challenges.
-- 🎓 &nbsp; Studying software enginnering in AASTU.
-- 💼 &nbsp; I have amazing experince in hybrid mobile app development.
+- 🎓 &nbsp; Interested in teamwork.
 - 🌱 &nbsp; I always enhance my <b>Skillset</b> by new skills and methdologies.
 - ✍️ &nbsp; I have good experince in <b>Devops</b> engineering practive.
-- 👾 &nbsp; I have remote work experince as a mobile app developer.
 - 🤏 &nbsp; I have published several apps in My <b>PlayStore</b> account.
 - 🗣️ &nbsp; I am well-versed in communicating with the client in clear and concise English.
 - 💪 &nbsp; Currelntly I am updating my self to be a <b>Full Stack</b> web developer.
