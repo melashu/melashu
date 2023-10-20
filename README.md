@@ -15,7 +15,7 @@
 
 - 🌐 &nbsp;
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=red)
-  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-yes-green?logo=rubyonrails&logoColor=red)
+  ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-333333?style=flat&logo=rubyonrails&logoColor=red)
   ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Hotwire](https://img.shields.io/badge/-Hotwire-333333?style=flat&logo=hotwire)
