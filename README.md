@@ -14,16 +14,13 @@
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
 - 🌐 &nbsp;
+  ![Ruby on Rails](https://img.shields.io/endpoint?label=Ruby%20on%20Rails&logo=Ruby%20on%20Rails&logoColor=white&style=flat-square&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ffffff)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ffffff)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  ![Ruby on Rails](https://img.shields.io/endpoint?label=Ruby%20on%20Rails&logo=Ruby%20on%20Rails&logoColor=white&style=flat-square&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday)
-  
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)   
     
  - 💻 &nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=00599C)
