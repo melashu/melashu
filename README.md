@@ -4,7 +4,7 @@
 
 <h3 style="font-size:22px;color:red"> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 👾 &nbsp; I'm a full-stack developer with JavaScript, React, and Ruby on Rails.
+- 👾 &nbsp; I'm a full-stack developer with Ruby on Rails, Hotwire, TailwindCSS and Bootstrap.
 - 🌱 &nbsp; I'm looking for a fast-growing technology company or startup to which I can help and contribute.
 - 🤔 &nbsp; I'm a developer with a passion for learning and solving challenges.
 - 🎓 &nbsp; <b>Interested in teamwork</b>.
@@ -14,13 +14,14 @@
 <h3> 🛠 &nbsp;My Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![Ruby on Rails](https://img.shields.io/endpoint?label=Ruby%20on%20Rails&logo=Ruby%20on%20Rails&logoColor=white&style=flat-square&url=https%3A%2F%2Fshields.redsparr0w.com%2F2473%2Fmonday)
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=ffffff)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=red)
+  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-yes-green?logo=rubyonrails&logoColor=red)
+  ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Hotwire](https://img.shields.io/badge/-Hotwire-333333?style=flat&logo=hotwire)
+  ![stimulus](https://img.shields.io/badge/-Stimulus-333333?style=flat&logo=stimulus)
+  ![turbo](https://img.shields.io/badge/-Turbo-333333?style=flat&logo=turbo&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)   
     
  - 💻 &nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=00599C)
@@ -31,6 +32,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite&logoColor=blueviolt)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=1572B6)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=1572B6)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
